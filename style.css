@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+
+}
+
+.container{
+    background-color: grey;
+    height: 100vh;
+}
+
+.header{
+    color: red;
+}
